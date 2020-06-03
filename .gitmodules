@@ -1,0 +1,4 @@
+[submodule "googlefonts/nototools"]
+	path = googlefonts/nototools
+	url = git@github.com:googlefonts/nototools.git
+	branch = master
